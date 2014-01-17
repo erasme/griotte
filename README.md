@@ -25,3 +25,7 @@ lighting systems, ...
 TBD
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/erasme/griotte/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
